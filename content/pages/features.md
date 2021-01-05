@@ -3,7 +3,7 @@ title: Featuresss
 sections:
   - type: hero_section
     title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.sadf'
     align: center
   - type: features_section
     features:
