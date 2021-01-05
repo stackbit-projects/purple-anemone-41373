@@ -15,7 +15,7 @@ sections:
 
 
           * 
-        align: left
+        align: right
         image: images/feature.svg
         image_position: right
         actions:
